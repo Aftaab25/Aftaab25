@@ -32,7 +32,6 @@ Hi, I'm [Aftaab Siddiqui](https://aftaab25.github.io/aftaab.sh/), a web and app 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
 <br>
 
 ### What I always play with
@@ -43,8 +42,3 @@ Hi, I'm [Aftaab Siddiqui](https://aftaab25.github.io/aftaab.sh/), a web and app 
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849656/figma_ugopbh.png" alt="java-logo">
 </p>
-
-<br>
-
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=aftaab25.aftaab25) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/aftaab25) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aftaab25)
