@@ -12,7 +12,7 @@ Hi, I'm [Aftaab Siddiqui](https://aftaab25.github.io/aftaab.sh/), a web and app 
 
 
  - 📫 How to reach me: [aftaab2507@gmail.com](mailto:aftaab2507@gmail.com);
- - 🔗 My website: [https://www.aftaab.com/](https://aftaab25.github.io/aftaab.com/)
+ - 🔗 My website: [https://www.aftaab.sh/](https://aftaab25.github.io/aftaab.sh/)
 
  </br>
 
