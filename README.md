@@ -1,14 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<p align="left">
-<a href="https://twitter.com/MaiAftaabHoon" target="_blank"><img height="30" src="../Aftaab25/Resources/png/twitter.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aftaabasiddiqui/" target="_blank"><img height="30" src="../Aftaab25/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/aftaab___/" target="_blank"><img height="30" src="../Aftaab25/Resources/png/instagram.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- TODO: Add Medium Account -->
-
-</p>
-
 <br>
 
 Hi, I'm [Aftaab Siddiqui](https://aftaab25.github.io/aftaab.com/), a web and app developer 👨🏻‍💻 from India. I'm a Linux enthusiast and an open suorce lover.  Beside's coding stuff, I play Video Games sometimes (and Mario xD).
