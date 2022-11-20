@@ -15,6 +15,3 @@ Hi, I'm [Aftaab Siddiqui](https://aftaab25.github.io/aftaab.sh/), a web and app 
  - 🔗 My website: [https://www.aftaab.sh/](https://aftaab25.github.io/aftaab.sh/)
 
  </br>
-
-**Languages and Tools:**
-<br>
