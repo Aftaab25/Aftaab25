@@ -11,7 +11,7 @@ Hi, I'm [Aftaab Siddiqui](https://aftaab25.github.io/aftaab.sh/), a web and app 
 <!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
 
- - 📫 How to reach me: [aftaab2507@gmail.com](mailto:aftaab2507@gmail.com);
+ - 📫 How to reach me: [aftaab2507@gmail.com](mailto:aftaab2507@gmail.com)
  - 🔗 My website: [https://www.aftaab.sh/](https://aftaab25.github.io/aftaab.sh/) (Still under dev)
 
  </br>
