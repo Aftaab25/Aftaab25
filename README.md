@@ -2,7 +2,7 @@
 
 <br>
 
-Hi, I'm [Aftaab Siddiqui](https://aftaab25.github.io/aftaab.sh/), a web and app developer 👨🏻‍💻 from India. I'm a Linux enthusiast and an open suorce lover.
+Hi, I'm [Aftaab Siddiqui](https://aftaab25.github.io/aftaab.sh/), a web and app developer 👨🏻‍💻 from India. I'm a Linux enthusiast and an open source lover.
 
 <br>
 
