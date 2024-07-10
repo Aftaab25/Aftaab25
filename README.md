@@ -3,6 +3,7 @@
 <br>
 
 Hi, I'm [Aftaab Siddiqui](https://aftaab25.github.io/aftaab.sh/), a web and app developer 👨🏻‍💻 from India. I'm a Linux enthusiast and an open source lover.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aftaab25&label=Profile%20views&color=0e75b6&style=flat" alt="gauravvgolchha" /> </p>
 
 <br>
 
