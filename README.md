@@ -32,6 +32,7 @@ or just ✉️ [Email](mailto:aftaab2507@gmail.com) | 💬 [Issue](https://githu
   <a href="https://github.com/Aftaab25/ARM7-Assembler">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aftaab25&repo=ARM7-Assembler&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ARM7-Assembler" />
   </a>
+  &nbsp;
   <a href="https://github.com/Aftaab25/DocumentScanner">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aftaab25&repo=DocumentScanner&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DocumentScanner" />
   </a>
@@ -39,6 +40,7 @@ or just ✉️ [Email](mailto:aftaab2507@gmail.com) | 💬 [Issue](https://githu
   <a href="https://github.com/Aftaab25/2-Stage-OpAmp-Analysis">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aftaab25&repo=2-Stage-OpAmp-Analysis&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="2-Stage-OpAmp-Analysis" />
   </a>
+  &nbsp;
 </div>
 
 <br>
