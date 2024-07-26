@@ -1,6 +1,6 @@
 <!-- Intro -->
 <h2 align="center">Hi👋! My name is Aftaab Siddiqui</h2>
-<h3 align="center">Software Developer focused on building open-source tools with keen interest in Full Stack Development and Machine Learning.</h3>
+<h3 align="center">Software Developer focused on building open-source tools with keen interest in Machine Learning and Full Stack Development.</h3>
 
 <!-- Profile Visits -->
 <br>
