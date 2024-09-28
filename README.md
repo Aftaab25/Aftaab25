@@ -22,7 +22,7 @@ or just ✉️ [Email](mailto:aftaab2507@gmail.com) | 💬 [Issue](https://githu
 
 <br>
 
-<!-- Highlight Projects -->
+<!-- Highlight Projects 
 <h2 align="center">🗂️ Highlight Projects</h2> 
 <div align="center">
   <a href="https://github.com/Aftaab25/AStarPathfinder">
@@ -44,15 +44,7 @@ or just ✉️ [Email](mailto:aftaab2507@gmail.com) | 💬 [Issue](https://githu
 </div>
 
 <br>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=aftaab25&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br>
+-->
 
 <h2 align="center">💻 Open Source Work Stats</h2> 
 <div align="center">
@@ -68,6 +60,16 @@ or just ✉️ [Email](mailto:aftaab2507@gmail.com) | 💬 [Issue](https://githu
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftaab25&theme=nord" alt="aftaab25" />
   </p>
 </div>
+<br>
+
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=aftaab25&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 <br>
 
 [-1]: https://threads.net/@aftaab___
